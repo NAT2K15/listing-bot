@@ -4,7 +4,7 @@
 NAT2K15 Development
 You may not resell any of NAT2K15 Bots doing so will result in a ban and may lead into legal actions
 
-You may not remove my credits with out full permissions by @NAT2K15 from any of our services/bots
+#You may not remove my credits with out full permissions by @NAT2K15 from any of our services/bots
 
 You may not charge back doing so will result in blacklist. you cannot public release any of the bots without full permissions by @NAT2K15
 
