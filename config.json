@@ -1,0 +1,55 @@
+{
+    "token": "",
+    "prefix": ".",
+
+    "embed": {
+        "color": "#0000",
+        "footer": "footer goes here"
+    },
+
+    "presence": {
+        "status": "dnd",
+        "activity": "watching nat2k15 listings"
+    },
+
+    "server_count": {
+        "enable": false,
+        "server_id": "",
+        "everyone_channel": "",
+
+        "enable_client": false,
+        "client_role": "",
+        "client_channel": ""
+    },
+
+    "discord_logging": {
+        "dm_logs": ""
+    },
+
+    "welcome": {
+        "enable": false,
+        "channel": "",
+        "type": 2,
+        "message": "Buy this bot @ https://discord.gg/RquDVTfDwu",
+
+        "alt_detection": false,
+        "alt_days": "30",
+        "alt_channel": "",
+
+        "auto_role": false,
+        "roles": [""]
+    },
+
+    "goodbye": {
+        "enable": false,
+        "channel": "",
+        "type": 1,
+        "message": "Buy this bot @ https://discord.gg/RquDVTfDwu"
+    },
+
+    "listings": {
+        "enable": false,
+        "allowes_role": ""
+    }
+
+}
