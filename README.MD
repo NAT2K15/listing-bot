@@ -1,4 +1,4 @@
-NAT2K15 Development Listing bot made by NAT2K15 
+##NAT2K15 Development Listing bot made by NAT2K15 
 /* By downloading this file you agree to my Term of Service listed below */
 
 NAT2K15 Development
@@ -17,8 +17,8 @@ I NAT2K15#2951 have the right to change this tos at any given time
 For all custom orders. You must pay before we start our project. All payments are done in USD currency
 
 
-
-Thank you for downloading and buying the listing below will be the default config.json just in case you somehow mess it up
+--
+#Thank you for downloading and buying the listing below will be the default config.json just in case you somehow mess it up
 
 {
     "token": "",
