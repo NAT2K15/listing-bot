@@ -18,7 +18,7 @@ For all custom orders. You must pay before we start our project. All payments ar
 
 
 Thank you for downloading and buying the listing below will be the default config.json just in case you somehow mess it up
-
+{
 {
     "token": "",
     "prefix": ".",
@@ -73,4 +73,5 @@ Thank you for downloading and buying the listing below will be the default confi
         "allowes_role": ""
     }
 
+}
 }
